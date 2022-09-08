@@ -1,6 +1,6 @@
-#NuConcept API Network
+# NuConcept API Network
 
-##Files:<br />
+## Files:<br />
 >Types of request- **POST, GET, DELETE, UPDATE**<br />
 >Create a file: **POST** : *api.nuconcept.co.uk:7082/cdn/content/files/*<br />
 >Get a file: **GET** : *api.nuconcept.co.uk:7082/cdn/content/files/(fileID)*<br />
